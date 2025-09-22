@@ -1,19 +1,12 @@
 # Hi, I’m Arbi Khalil Lakhoua 👋
 
+## 💫 About Me
+
 **Platform & AI Engineer** building reliable ML/AI systems end‑to‑end — from cloud infrastructure and DevOps to intelligent agents, RAG, and model observability. Strong foundation in **networking & security**. Final‑year **Computer Networks & Telecommunications** student at **INSAT (’26)**.
 
 
-<a href="https://www.linkedin.com/in/arbi-khalil-lakhoua-07961b279/"><img src="https://img.shields.io/badge/LinkedIn-Arbi%20Khalil%20Lakhoua-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:arbiKhalil.Lakhoua@insat.ucar.tn"><img src="https://img.shields.io/badge/Email-arbiKhalil.Lakhoua%40insat.ucar.tn-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/KhalilKrugerOS/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="https://www.hackerrank.com/profile/arabickhalil"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-<a href="https://github.com/KhalilKrugerOS"><img src="https://img.shields.io/badge/GitHub-KhalilKrugerOS-181717?logo=github&logoColor=white" alt="GitHub"></a>
-
-[EF SET C2](https://cert.efset.org/en/grrSZc)
-
-## 💫 About Me
-
-I am Arbi, an ICT/Networks engineering student about to graduate (INSAT ’26). I work on AI platform engineering: building infrastructure, MLOps/LLMOps, and robust RAG/agent systems. I’m currently seeking a final‑year internship in Platform/AI Engineering. I also enjoy frontend development and I’m learning distributed systems design and LLM architectures.
+ICT/Networks engineering student about to graduate (INSAT ’26)
+I’m currently seeking a final‑year internship in Platform/AI Engineering. I also enjoy frontend development and I’m learning distributed systems design and LLM architectures.
 
 ## 🌐 Socials
 
@@ -32,6 +25,14 @@ I am Arbi, an ICT/Networks engineering student about to graduate (INSAT ’26). 
 - **Platform**: Kubernetes, GitOps, CI/CD, IaC, service mesh, SRE practices
 - **AI Systems**: RAG, agents, evals, vector stores, tracing/observability
 - **Reliability**: monitoring, alerts, budgets, autoscaling, cost/perf trade‑offs
+
+
+## ✅ Certifications
+
+[![AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/db079d1c-e229-401e-ba0a-9d037fa349dc/linked_in_profile)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS%20SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c4acef79-43e4-48c5-aca0-c4473778606a/public_url)
+[![CKA Course (KodeKloud)](https://img.shields.io/badge/CKA%20Course-KodeKloud-2E5EAA?style=for-the-badge)](https://learn.kodekloud.com/user/certificate/52fb8023-1f91-46ef-aacb-b58c19e0e865)
+[![CCNA Enterprise](https://img.shields.io/badge/CCNA%20Enterprise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/085da236-f95b-4ce7-b957-4c317a0056c8/public_url)
 
 ## 💻 Tech Stack
 
@@ -75,13 +76,6 @@ I am Arbi, an ICT/Networks engineering student about to graduate (INSAT ’26). 
 * Implemented a **WAF** on a reverse proxy to harden web services.
 * Built **MPLS L3 VPN** with high availability and automated validation.
 
-## ✅ Certifications
-
-[![AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/db079d1c-e229-401e-ba0a-9d037fa349dc/linked_in_profile)
-[![AWS SAA-C03](https://img.shields.io/badge/AWS%20SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c4acef79-43e4-48c5-aca0-c4473778606a/public_url)
-[![CKA Course (KodeKloud)](https://img.shields.io/badge/CKA%20Course-KodeKloud-2E5EAA?style=for-the-badge)](https://learn.kodekloud.com/user/certificate/52fb8023-1f91-46ef-aacb-b58c19e0e865)
-[![CCNA Enterprise](https://img.shields.io/badge/CCNA%20Enterprise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/085da236-f95b-4ce7-b957-4c317a0056c8/public_url)
-
 ## 🗣️ Soft Skills
 
 Leadership (GDG instructor) · Collaboration (Agile, pair programming) · Communication (workshops & docs) · Problem‑solving (perf tuning & debugging)
@@ -110,7 +104,7 @@ Leadership (GDG instructor) · Collaboration (Agile, pair programming) · Commun
 ![Argo%20CD](https://img.shields.io/badge/Argo%20CD-FE5F55)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800)
--->
+ -->
 
  
 
