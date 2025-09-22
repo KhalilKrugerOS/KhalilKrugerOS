@@ -79,35 +79,3 @@ I’m currently seeking a final‑year internship in Platform/AI Engineering. I 
 ## 🗣️ Soft Skills
 
 Leadership (GDG instructor) · Collaboration (Agile, pair programming) · Communication (workshops & docs) · Problem‑solving (perf tuning & debugging)
-
-## 📈 GitHub & Profiles Flair (optional)
-
-> Uncomment these if you like the look — they pull from public services.
-
-<!-- GitHub Stats -->
-
-<!--
-![Arbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilKrugerOS&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilKrugerOS&layout=compact)
--->
-
-<!-- Badges (Shields.io examples) -->
-
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
-![AWS](https://img.shields.io/badge/AWS-232F3E)
-![Azure](https://img.shields.io/badge/Azure-0078D4)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC)
-![Helm](https://img.shields.io/badge/Helm-0F1689)
-![Argo%20CD](https://img.shields.io/badge/Argo%20CD-FE5F55)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-F46800)
- -->
-
- 
-
----
-
-> If you find my projects useful, consider ⭐️ starring the repos and opening issues — feedback is always welcome!
