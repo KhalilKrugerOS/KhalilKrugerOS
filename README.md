@@ -2,6 +2,7 @@
 
 **Platform & AI Engineer** building reliable ML/AI systems end‑to‑end — from cloud infrastructure and DevOps to intelligent agents, RAG, and model observability. Strong foundation in **networking & security**. Final‑year **Computer Networks & Telecommunications** student at **INSAT (’26)**.
 
+
 <a href="https://www.linkedin.com/in/arbi-khalil-lakhoua-07961b279/"><img src="https://img.shields.io/badge/LinkedIn-Arbi%20Khalil%20Lakhoua-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:arbiKhalil.Lakhoua@insat.ucar.tn"><img src="https://img.shields.io/badge/Email-arbiKhalil.Lakhoua%40insat.ucar.tn-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://leetcode.com/u/KhalilKrugerOS/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
@@ -16,7 +17,7 @@ I am Arbi, an ICT/Networks engineering student about to graduate (INSAT ’26). 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbi-khalil-lakhoua-07961b279/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbikhalil.lakhoua@insat.ucar.tn) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/<your-leetcode-username>/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/<your-hackerrank-username>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbi-khalil-lakhoua-07961b279/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbikhalil.lakhoua@insat.ucar.tn) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KhalilKrugerOS/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arabickhalil)
 
 ---
 
@@ -38,36 +39,11 @@ I am Arbi, an ICT/Networks engineering student about to graduate (INSAT ’26). 
 
 <!-- consolidated from previous Tech Toolbox -->
 
-## 🏗️ Featured Projects
-
-### 1) Financial Data Extraction Pipeline — DevOps & ML
-
-End‑to‑end **MLOps pipeline** for training, deployment, and monitoring. Includes CI/CD and observability hooks.
-
-* **Repo:** [https://github.com/zk2k2/financial-data-extraction-pipeline](https://github.com/zk2k2/financial-data-extraction-pipeline)
-* **You’ll see:** automated data ingestion, model training jobs, deployment workflow, and metrics collection.
-
-### 2) Car Price Prediction — ML Engineer
-
-**XGBoost** model for car price estimation following **CRISP‑DM**: data collection → cleaning → EDA → feature engineering → modeling.
-
-* **Repo:** [https://github.com/KhalilKrugerOS/CarPricePrediction](https://github.com/KhalilKrugerOS/CarPricePrediction)
-* **You’ll see:** reproducible notebooks, feature pipeline, and evaluation artifacts.
-
-### 3) Federated Learning for DDoS Prediction (SDN)
-
-Research prototype using **federated learning** to predict **DDoS** in SDN environments.
-
-* **Repo:** [https://github.com/KhalilKrugerOS/AI-Driven-FederatedLearning-for-SDN-Bandwidth](https://github.com/KhalilKrugerOS/AI-Driven-FederatedLearning-for-SDN-Bandwidth)
-* **You’ll see:** FL training loop, data partitioning, and SDN‑specific evaluation.
+ 
 
 > 💡 **Next up:** Open‑source a lightweight **RAG Agent** template (retrievers, chunking, eval harness, and observability) + a **Network Automation Playbooks** pack for MPLS and HA labs.
 
-## 🔗 Profiles
-
-- **LeetCode:** `https://leetcode.com/u/<your-leetcode-username>/`
-- **HackerRank:** `https://www.hackerrank.com/profile/<your-hackerrank-username>`
-- **LinkedIn:** `https://www.linkedin.com/in/arbi-khalil-lakhoua-07961b279/`
+ 
 
 ## 📊 GitHub Stats
 
@@ -101,10 +77,10 @@ Research prototype using **federated learning** to predict **DDoS** in SDN envir
 
 ## ✅ Certifications
 
-* **Azure Fundamentals (AZ‑900)** — Microsoft — [Credly](https://www.credly.com/badges/db079d1c-e229-401e-ba0a-9d037fa349dc/linked_in_profile)
-* **AWS Solutions Architect – Associate (SAA‑C03)** — AWS — [Credly](https://www.credly.com/badges/c4acef79-43e4-48c5-aca0-c4473778606a/public_url)
-* **CKA Certification Course** — KodeKloud — [Certificate](https://learn.kodekloud.com/user/certificate/52fb8023-1f91-46ef-aacb-b58c19e0e865)
-* **CCNA: Enterprise Networking, Security & Automation** — Cisco — [Credly](https://www.credly.com/badges/085da236-f95b-4ce7-b957-4c317a0056c8/public_url)
+[![AZ-900](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/db079d1c-e229-401e-ba0a-9d037fa349dc/linked_in_profile)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS%20SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c4acef79-43e4-48c5-aca0-c4473778606a/public_url)
+[![CKA Course (KodeKloud)](https://img.shields.io/badge/CKA%20Course-KodeKloud-2E5EAA?style=for-the-badge)](https://learn.kodekloud.com/user/certificate/52fb8023-1f91-46ef-aacb-b58c19e0e865)
+[![CCNA Enterprise](https://img.shields.io/badge/CCNA%20Enterprise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/085da236-f95b-4ce7-b957-4c317a0056c8/public_url)
 
 ## 🗣️ Soft Skills
 
@@ -136,12 +112,7 @@ Leadership (GDG instructor) · Collaboration (Agile, pair programming) · Commun
 ![Grafana](https://img.shields.io/badge/Grafana-F46800)
 -->
 
-## 📫 Get in touch
-
-**Email:** [arbiKhalil.Lakhoua@insat.ucar.tn](mailto:arbiKhalil.Lakhoua@insat.ucar.tn)
-**LinkedIn:** linkedin.com/in/arbi-khalil-lakhoua-07961b279
-**LeetCode:** leetcode.com/u/<your-leetcode-username>/
-**HackerRank:** hackerrank.com/profile/<your-hackerrank-username>
+ 
 
 ---
 
